@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.jumbotron {
+  padding: 15rem 0 0rem;
+  color: white;
+  background-image: url(../img/ground.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.jumbotron p {
+  font-style: italic;
+}
+
+#riders {
+  background-color: #59f15c;
+}
+
+#contact {
+  background-color: #59f15c;
+}
+
+footer {
+  text-align: center;
+  font-size: 20px;
+  margin: 0;
+  padding: 10px;
+  background-color: black;
+  color: white;
+
+}
+
+section {
+  padding-top: 5rem;
+}
